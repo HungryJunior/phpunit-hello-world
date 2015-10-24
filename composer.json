@@ -1,0 +1,14 @@
+{
+    "name": "vendor/phpunit",
+    "description": "phpunit",
+    "require": {
+        "phpunit/phpunit": "5.0.8"
+    },
+    "authors": [
+        {
+            "name": "Sebastian Bergmann",
+            "email": "sebastian@phpunit.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
